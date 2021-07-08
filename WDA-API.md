@@ -6,7 +6,7 @@
 - [FBOrientationCommands.m](https://github.com/appium/webdriveragent/blob/master/WebDriverAgentLib/Commands/FBOrientationCommands.m)
 
 ```bash
-# 获取sessionId
+# 获取sessionId 1
 $ http GET :8100/status # 获取sessionId
 {
     "sessionId": "${sessionId} ...."
